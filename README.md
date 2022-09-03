@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luminous2000
-- 👀 I’m interested in App development, web development , and ethical hacking
-- 🌱 I’m currently learning App Development
+- 👀 I’m interested in App development, web development, and ethical hacking
+- 🌱 I’m currently learning App Development with Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
